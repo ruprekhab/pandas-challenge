@@ -7,7 +7,7 @@ This assignment focuses on analyzing school performance trends using a script th
 
 District Summary: An overview of the entire school district, including total number of schools and students, total budget, average Math and Reading scores, percentage of students passing Math, Reading, and both subjects.
 
-School Summary: Detailed performance metrics for each school, featuring School name and type (e.g., public, charter), total number of students and the budget, budget per student, average Math and Reading scores, percentage of students passing Math, Reading, and both subjects.
+School Summary: Detailed performance metrics for each school, featuring School name and type (district, charter), total number of students and the budget, budget per student, average Math and Reading scores, percentage of students passing Math, Reading, and both subjects.
 
 Top 5 Performing Schools: A list of the top 5 schools with the highest overall passing percentage.
 
